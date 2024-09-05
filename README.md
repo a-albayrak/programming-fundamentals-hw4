@@ -3,7 +3,7 @@
 ## Overview
 In this project, I implemented a **Turn-Based Video Game Application** using Java. The application showcases a battle between player-controlled characters and randomly generated opponents, utilizing object-oriented principles and Java-specific concepts such as inheritance, interfaces, abstract classes, inner classes, exception handling, generics, and collections.
 
-## Key Features
+## Features
 - **Player-Character Creation**: Players can create up to 3 characters with randomly generated stats, each assigned one of four possible jobs: Knight, Hunter, Squire, or Villager.
 - **Opponent Generation**: Opponents are randomly generated from a pool of 1 to 4 opponents with distinct types: Slime, Goblin, Orc, or Wolf.
 - **Turn-Based Combat System**: The game features a queue-based turn order system, where each character and opponent takes turns performing actions like attacking, guarding, or executing special moves.
